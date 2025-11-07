@@ -1,0 +1,5 @@
+{
+  "name": "Dekowood - AI Furniture Visualizer",
+  "description": "An application for Dekowood employees to generate high-quality renders of custom furniture within a client's space using AI. It also includes tools for image generation, text-based editing, and image analysis.",
+  "requestFramePermissions": []
+}
